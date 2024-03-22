@@ -1,0 +1,16 @@
+- vào your profile
+- vào repositories
+- new ( để tạo dự án mới)
+	+ nhập tên dự án
+	+ puplic là những người nhấn vào đường Link có thể xem được
+	+ private là chỉ bản thân xem được
+- create repository
+- nhấn git bash trong một thư mục ở pc
+- copy đường link dự án
+- git clone + "LINK" trong gitbash
+- mở lại gitbash
+	+ git status (kiểm tra trạng thái file)
+	+ git add . ( . thêm tất cả các file)
+	+ git status 
+	+ git commit -m "init project" (trong ngoặc là nội dung của dự án)
+	+ git push origin main (tạo thư mục lên git)
